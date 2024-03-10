@@ -76,7 +76,7 @@
     width: 40%;
   }
   .pages li a {
-    font-size: 14px;
+    font-size: 20px;
   }
   .nav-buttons button {
     margin: 3px;
@@ -86,7 +86,7 @@
 
 @media screen and (max-width: 640px) {
   .appName {
-    font-size: 20px;
+    font-size: 25px;
   }
   .pages {
     position: absolute;
@@ -108,10 +108,9 @@
   }
   .pages li a {
     color: white;
-    font-size: 16px;
   }
   .nav-buttons button a {
-    font-size: 12px;
+    font-size: 14px;
   }
   .logout-btn {
     display: block;
@@ -121,5 +120,7 @@
   }
   .fa-btns {
     display: block;
+    font-size: 22px;
+    padding: 5px;
   }
 }
